@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
+    <identifier>CWB-Weather_hazards_20210607082351</identifier>
+    <sender>weather@cwb.gov.tw</sender>
+    <sent>2021-06-07T08:23:51+08:00</sent>
+    <status>Actual</status>
+    <scope>Public</scope>
+    <msgType>Update</msgType>
+    
+    <dataset>
+        <datasetInfo>
+            <datasetDescription>大雨特報</datasetDescription>
+            <datasetLanguage>zh-TW</datasetLanguage>
+            <issueTime>2021-06-07T08:15:00+08:00</issueTime>
+            <validTime>
+                <startTime>2021-06-07T08:18:00+08:00</startTime>
+                <endTime>2021-06-07T16:18:00+08:00</endTime>
+            </validTime>
+            <update>2021-06-07T08:23:51+08:00</update>
+        </datasetInfo>
+
+        <contents>
+            <content>
+                <contentLanguage>zh-TW</contentLanguage>
+                <contentText>
+                由於降雨趨於緩和，發生大雨的機率降低，故解除大雨特報；今（７日）午後各地山區仍有局部較大雨勢，請注意。
+                </contentText>
+            </content>
+        </contents>
+
+        <hazardConditions>
+            <hazards>
+            </hazards>
+        </hazardConditions>
+
+    </dataset>
+</cwbopendata>
